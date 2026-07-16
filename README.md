@@ -176,15 +176,6 @@ Analyze audience engagement and rating trends across languages.
 
 ---
 
-# 🔍 Key Insights
-
-- English-language titles dominate the catalog by volume, but do not top the charts for either popularity or rating — smaller-volume languages like Malayalam (ml) and Hindi (hi) lead on popularity, while languages like Malay (ms) and Ukrainian (uk) lead on average rating.
-- High-volume genres (Drama, Action, Comedy) are not the highest-rated or most popular per title — genres like War, Animation, and Western score highest on average rating despite lower content volume.
-- The Audience Trust chart (Rating Count vs Average Rating) shows ratings stabilize and trend upward as vote count increases, suggesting low-vote titles carry more rating volatility/noise.
-- Movie output has grown sharply since the 1980s, with a peak around 2020 followed by a decline — worth noting as a possible data coverage/collection cutoff rather than an actual industry decline.
-
----
-
 # 🎨 Design
 
 Built using Netflix's brand palette for visual consistency.
@@ -196,21 +187,6 @@ Built using Netflix's brand palette for visual consistency.
 | Card Background (Dark Grey) | `#1F1F1F` |
 | White Text | `#FFFFFF` |
 | Muted Grey Text | `#B3B3B3` |
-
----
-
-# 📊 Dashboard Preview
-
-> **Add your dashboard screenshots here after uploading them.**
-
-```
-Dashboard_Screenshots/
-│
-├── Page1_Executive_Overview.png
-├── Page2_Rating_Popularity_Analysis.png
-├── Page3_Genre_Analysis.png
-└── Page4_Language_Analysis.png
-```
 
 ---
 
@@ -238,8 +214,6 @@ netflix-movies-analysis-powerbi/
 │   ├── Page2_Rating_Popularity_Analysis.png
 │   ├── Page3_Genre_Analysis.png
 │   └── Page4_Language_Analysis.png
-├── Images/
-│   └── Dashboard_Preview.png
 └── LICENSE
 ```
 
